@@ -7730,8 +7730,9 @@ blockquote:before {
 }
 .contact-cn {
   width: 430px;
+  height: fit-content;
   padding: 10px 30px 0 30px;
-  position: absolute;
+  /* position: absolute; */
   z-index: 10;
   left: 0;
   right: 0px;
